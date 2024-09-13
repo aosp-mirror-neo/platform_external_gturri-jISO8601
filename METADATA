@@ -1,0 +1,16 @@
+name: "gturri-jISO8601"
+description:
+    "ISO8601 date parsing library for aXMLRPC."
+
+third_party {
+homepage: "https://github.com/gturri/jISO8601"
+  identifier {
+    type: "Git"
+    value: "https://github.com/gturri/jISO8601.git"
+    primary_source: true
+    version: "jISO8601-0.2"
+  }
+  version: "jISO8601-0.2"
+  last_upgrade_date { year: 2024 month: 8 day: 7 }
+  license_type: NOTICE
+}
