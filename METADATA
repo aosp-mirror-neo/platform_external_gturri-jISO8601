@@ -12,7 +12,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/gturri/jISO8601.git"
-    version: "fcba9d854026cf3ebcaa5619dce69fca62c63b02"
+    version: "80acbf988ed6dc68897cbb599a80a79b5f14716d"
     closest_version: "jISO8601-0.2"
     primary_source: true
   }
